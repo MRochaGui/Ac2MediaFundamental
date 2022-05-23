@@ -1,6 +1,6 @@
 # Ac2MediaFundamental
 
-Criei um código calcular as notas das avaliações e exibir a média
+Criei um código para calcular as notas das avaliações e exibir a média
 
 Início
 
@@ -10,13 +10,11 @@ Receber as notas de um aluno
 
 Calcular as notas
 
-Mostrar média do aluno.
-
 Se maior que 7,99 mostrar na tela aluno aprovado
 
 Se média do aluno for entre 6 e 7,99 mostrar na tela aluno em recuperação
 
-Se média menor que 6 mostrar na tela aluno reprovado.
+Se média menor que 6 mostrar na tela aluno reprovado
 
 Fim enquanto
 

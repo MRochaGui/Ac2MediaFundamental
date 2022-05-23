@@ -6,7 +6,7 @@ Início
 
 Enquanto R.A diferente de 0? Faça
 
-Receber as notas de um aluno em questão
+Receber as notas de um aluno
 
 Calcular as notas
 

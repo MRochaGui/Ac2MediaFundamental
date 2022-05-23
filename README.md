@@ -4,7 +4,7 @@ Criei um código para calcular as notas das avaliações e exibir a média
 
 Início
 
-Enquanto R.A diferente de 0? Faça
+Enquanto R.A diferente de 0  Faça
 
 Receber as notas de um aluno
 
